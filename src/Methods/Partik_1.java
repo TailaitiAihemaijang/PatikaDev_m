@@ -9,7 +9,7 @@ package Methods;
  * @Create 5/26/2023 10:34 AM
  * @Version 1.0
  */
-public class Prtik_1 {
+public class Partik_1 {
     static boolean isPalindrom(int number){
         int temp = number,reversNumber = 0,lastNumber;
         while (temp != 0){
